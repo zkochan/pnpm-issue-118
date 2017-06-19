@@ -18,6 +18,6 @@
   "homepage": "https://github.com/zkochan/pnpm-issue-118#readme",
   "dependencies": {
     "gulp": "^3.9.1",
-    "gulp-less": "^3.1.0"
+    "gulp-less": "^3.3.1"
   }
 }
